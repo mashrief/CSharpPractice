@@ -6,7 +6,8 @@ namespace CSharpPractice
     {
         static void Main(string[] args)
         {
-            HelloWorld.Run();
+            //HelloWorld.Run();
+            NumericDataType.Run();
         }
     }
 }
