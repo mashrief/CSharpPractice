@@ -7,7 +7,8 @@ namespace CSharpPractice
         static void Main(string[] args)
         {
             //HelloWorld.Run();
-            NumericDataType.Run();
+            //NumericDataType.Run();
+            TextDataType.Run();
         }
     }
 }
