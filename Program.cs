@@ -8,7 +8,8 @@ namespace CSharpPractice
         {
             //HelloWorld.Run();
             //NumericDataType.Run();
-            TextDataType.Run();
+            //TextDataType.Run();
+            TextToNumericConversion.Run();
         }
     }
 }

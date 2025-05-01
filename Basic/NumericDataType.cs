@@ -19,7 +19,7 @@
             Console.WriteLine(double.MaxValue);
             Console.WriteLine(double.MinValue);
 
-            float precision = 5.0000001F;
+            float precision = 5.000001F;
             Console.WriteLine(precision);
             Console.WriteLine(float.MaxValue);
             Console.WriteLine(float.MinValue);
