@@ -11,7 +11,8 @@ namespace CSharpPractice
             //TextDataType.Run();
             //TextToNumericConversion.Run();
             //BooleanDataType.Run();
-            BasicOperators.Run();
+            //BasicOperators.Run();
+            VarKeyword.Run();
         }
     }
 }
