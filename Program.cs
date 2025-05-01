@@ -9,7 +9,8 @@ namespace CSharpPractice
             //HelloWorld.Run();
             //NumericDataType.Run();
             //TextDataType.Run();
-            TextToNumericConversion.Run();
+            //TextToNumericConversion.Run();
+            BooleanDataType.Run();
         }
     }
 }
